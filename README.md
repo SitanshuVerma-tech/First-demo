@@ -1,2 +1,3 @@
 # First-demo
-this is my first git repositary
+This Is My first Git Repositary
+Author - Sitanshu Verma
